@@ -1,5 +1,8 @@
+body {background-color: #40e0d0;
+}
 .wow {
   font-weight: bolder;
+  float: left;
 }
 
 .tool {
@@ -15,7 +18,7 @@
   border: 25px solid green;
   padding: 25px;
   margin: 25px;
-  float: right;
+
 }
 
 img {
