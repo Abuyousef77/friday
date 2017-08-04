@@ -1,19 +1,23 @@
-.wow
-{font-weight:bolder;}
+.wow {
+  font-weight: bolder;
+}
 
-.tool
-{color:red;}
+.tool {
+  color: red;
+}
 
-#winning
-{color:green;}
+#winning {
+  color:green;
+}
 
-.box
-{width: 300px;
-border: 25px solid green;
-padding: 25px;
-margin: 25px;
-float: right;}
+.box {
+  width: 300px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;
+  float: right;
+}
 
 img {
-    float: right;
+  float: right;
 }
