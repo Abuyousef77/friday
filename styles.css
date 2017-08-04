@@ -1,0 +1,19 @@
+.wow
+{font-weight:bolder;}
+
+.tool
+{color:red;}
+
+#winning
+{color:green;}
+
+.box
+{width: 300px;
+border: 25px solid green;
+padding: 25px;
+margin: 25px;
+float: right;}
+
+img {
+    float: right;
+}
