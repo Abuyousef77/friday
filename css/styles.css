@@ -1,0 +1,55 @@
+body {
+  background-color: #40e0d0;
+}
+
+.wow {
+  font-weight: bolder;
+  float: left;
+}
+
+.tool {
+  color: red;
+}
+
+#winning {
+  color:green;
+}
+
+li {
+  padding:15px;
+  border:15px solid green;
+  list-style-type: none;
+}
+
+.box {
+  width: 300px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+}
+
+h2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 8em;
+}
+
+h3 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+}
+
+img {
+  display: block;
+      margin-left: auto;
+      margin-right: auto
+}
